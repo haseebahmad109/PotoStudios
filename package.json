@@ -1,0 +1,24 @@
+{
+  "name": "PotoStudios",
+  "version": "1.0.0",
+  "description": "\"Games are at their best\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haseebahmad109/PotoStudios.git"
+  },
+  "keywords": [
+    "Game",
+    "Studio",
+    "Best"
+  ],
+  "author": "Haseeb Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haseebahmad109/PotoStudios/issues"
+  },
+  "homepage": "https://github.com/haseebahmad109/PotoStudios"
+}
